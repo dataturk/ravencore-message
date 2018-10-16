@@ -5,7 +5,7 @@
 
 ravencore-message adds support for verifying and signing ravencoin messages in [Node.js](http://nodejs.org/) and web browsers.
 
-See [the main ravencore repo](https://github.com/underdarkskies/ravencore) for more information.
+See [the main ravencore repo](https://github.com/OverstockMedici/ravencore) for more information.
 
 ## Getting Started
 
@@ -37,8 +37,8 @@ var verified = Message('hello, world').verify(address, signature);
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/underdarkskies/ravencore/blob/master/CONTRIBUTING.md) on the main ravencore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/OverstockMedici/ravencore/blob/master/CONTRIBUTING.md) on the main ravencore repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/underdarkskies/ravencore/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/OverstockMedici/ravencore/blob/master/LICENSE).
