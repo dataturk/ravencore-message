@@ -4,7 +4,7 @@ var chai = require('chai');
 var expect = chai.expect;
 var should = chai.should();
 
-var ravencore = require('@ravendevkit/ravencore-lib');
+var ravencore = require('ravencore-lib');
 var Address = ravencore.Address;
 var Signature = ravencore.crypto.Signature;
 var Message = require('../');

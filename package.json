@@ -23,7 +23,7 @@
     "url": "https://github.com/RavenDevKit/ravencore-message.git"
   },
   "dependencies": {
-    "@ravendevkit/ravencore-lib": "^1.0.4"
+    "ravencore-lib": "RavenDevKit/ravencore-lib"
   },
   "peerDependencies": {},
   "devDependencies": {
